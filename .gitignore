@@ -1,2 +1,2 @@
 #ignore files from commit and push
-./env*
+env*
